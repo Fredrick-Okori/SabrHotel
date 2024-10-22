@@ -21,9 +21,8 @@ const Hero = () => {
               <div className='flex justify-start gap-3 mt-10'>
                 <Button
                   type="button"
-                  title="Contact Us"
-
-                  variant='btn_dark_green'
+                  title="Contact Us" variant={''}
+                  
 
 
                 />

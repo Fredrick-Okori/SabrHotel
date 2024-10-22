@@ -26,7 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en">
      
-      <body className="bg-white dark:bg-gold-900" style={{ backgroundColor: "#3B1E54"}}>
+      <body style={{ backgroundColor: "#3B1E54", bottom: '0'}}>
         <Navbar />
         <main className={literata.className}>
           {children}
