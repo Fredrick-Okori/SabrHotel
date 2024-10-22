@@ -1,10 +1,10 @@
 // NAVIGATION
 export const NAV_LINKS = [
     { href: '/', key: 'home', label: 'Home' },
-    { href: '/', key: 'how_nexthotel_work', label: 'Meet Next Hotel' },
-    { href: '/', key: 'services', label: 'Services' },
-    { href: '/', key: 'pricing ', label: 'Pricing ' },
-    { href: '/', key: 'contact_us', label: 'Contact Us' },
+    { href: '/about', key: 'how_nexthotel_work', label: 'About' },
+    { href: '/services', key: 'services', label: 'Services' },
+    { href: '/gallery', key: 'pricing ', label: 'Gallery ' },
+    { href: '/contact', key: 'contact_us', label: 'Contact' },
   ];
   
   
