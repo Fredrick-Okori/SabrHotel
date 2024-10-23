@@ -18,7 +18,7 @@ const FooterColumn = ({ title, children }: FooterColumnProps) => {
 
 const Footer = () => {
   return (
-    <footer className="flexCenter mb-24">
+    <footer className="flexCenter mb-24 mt-24">
       <div className="padding-container max-container flex w-full
       flex-col gap-14">
         <div className="flex flex-col items-start justify-center 

@@ -1,5 +1,6 @@
 import Camp from "@/components/Camp";
 import CTASection from "@/components/CTA";
+import GalleryGlimpse from "@/components/GalleryGlimpse";
 
 import GetApp from "@/components/GetApp";
 import Guide from "@/components/Guide";
@@ -19,7 +20,7 @@ export default function Home() {
       <GetApp />
       {/* <Features /> */}
       <CTASection/>
-      
+      <GalleryGlimpse/>
       
       
     </>
