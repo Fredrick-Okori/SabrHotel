@@ -15,7 +15,7 @@ const Hero = () => {
                   <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-40">
 
                       <div className="text-left">
-                          <h1 className="text-balance text-4xl font-bold tracking-tight text-white sm:text-8xl"> About<span className='text-yellow-600'> Sabr Resort </span> Hotel</h1>
+                          <h1 className="text-balance text-4xl font-bold tracking-tight text-white sm:text-8xl"> Discover<span className='text-yellow-600'> Sabr Resort </span> Hotel</h1>
                           {/* <p className="mt-6 text-lg leading-8 text-gray-600">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.</p> */}
                          
 

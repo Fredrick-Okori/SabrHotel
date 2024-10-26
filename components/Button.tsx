@@ -10,7 +10,7 @@ type ButtonProps = {
 
 const Button = ({ type, title, icon, variant, full}: ButtonProps) => {
   return (
-    <button className={`flexCenter gap-3 rounded-full border px-8 py-5 ${variant} ${full && 'w-full'}`}
+    <button className={`flexCenter gap-3 rounded-full border px-4 py-3 ${variant} ${full && 'w-full'}`}
     type={type}
     style={{ backgroundColor: '#E89B23' }}>
         {icon && <Image src={icon} alt={title} width={24} height={24} />}
