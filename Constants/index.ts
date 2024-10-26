@@ -1,7 +1,7 @@
 // NAVIGATION
 export const NAV_LINKS = [
     { href: '/', key: 'home', label: 'Overview' },
-    { href: '/about', key: 'how_nexthotel_work', label: 'About' },
+    { href: '/about', key: 'about', label: 'About' },
     { href: '/services', key: 'services', label: 'Services' },
     { href: '/gallery', key: 'pricing ', label: 'Gallery ' },
     { href: '/contact', key: 'contact_us', label: 'Contact' },
